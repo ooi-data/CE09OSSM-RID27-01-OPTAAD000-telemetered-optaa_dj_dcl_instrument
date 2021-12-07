@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/CE09OSSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_instrument
+data_stream: CE09OSSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_instrument
+end_date: '2021-12-06T18:34:02.736Z'
+last_updated: '2021-12-07T02:49:03.539947Z'
+start_date: '2015-04-09T17:30:18.000Z'
+status: pending
