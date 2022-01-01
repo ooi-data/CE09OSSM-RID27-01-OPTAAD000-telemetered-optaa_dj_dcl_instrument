@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_instrument
-last_request: '2021-12-21T22:49:19.525775Z'
+last_request: '2022-01-01T01:02:22.352848Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_instrument/main/history/response.json
-status: success
+status: pending
